@@ -1,0 +1,3 @@
+C:\Users\anastasia\Desktop\лз2\classesCar\Cars\x64\Debug\Cars.exe
+C:\Users\anastasia\Desktop\лз4\classesCar\Cars\x64\Debug\Cars.exe
+C:\Users\anastasia\Desktop\лз4\Часть с плюсами\Cars\x64\Debug\Cars.exe
