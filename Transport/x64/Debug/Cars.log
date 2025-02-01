@@ -1,0 +1,11 @@
+﻿  Body.cpp
+  Car.cpp
+  Engine.cpp
+  main.cpp
+  Model.cpp
+  Transmission.cpp
+  Transport.cpp
+  Transport.h
+  Создание кода...
+x64\Debug\Transport.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Cars.vcxproj -> C:\Users\anastasia\Desktop\лз6\Часть с плюсами\Cars\x64\Debug\Cars.exe
